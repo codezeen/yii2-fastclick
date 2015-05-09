@@ -28,7 +28,7 @@ Usage
 Once the extension is installed, use the following code in view to register asset :
 
 ```php
-<?= \codezeen\yii2\fastclick\AutoloadExample::widget(); ?>
+<?= \codezeen\yii2\fastclick\FastClickAsset::register($this); ?>
 ```
 
 Or used as dependencies in asset bundle
