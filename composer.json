@@ -25,10 +25,5 @@
         "psr-4": {
             "codezeen\\yii2\\fastclick\\": ""
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
     }
 }
